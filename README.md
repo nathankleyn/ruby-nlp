@@ -1,6 +1,6 @@
 # Ruby NLP
 
-This repository is a pure Ruby toolkit for NLP. It's the examples part of an ongoing series I'm writing on SitePoint.com, so watch this repository for updates!
+This repository is a pure Ruby toolkit for NLP. It's the examples part of an ongoing series I'm writing on [SitePoint.com](http://sitepoint.com), so watch this repository for updates!
 
 ## Installing
 
@@ -52,7 +52,7 @@ corpus.sentences # => Flattened `Array` of sentences.
 
 ## Examples
 
-Some examples are in the `examples` directory, one per article from SitePoint.com in this series.
+Some examples are in the `examples` directory, one per article from [SitePoint.com](http://sitepoint.com) in this series.
 
 ## Future Work
 

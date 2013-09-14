@@ -10,6 +10,7 @@ GEM_SPEC = Gem::Specification.new do |spec|
   spec.files = %w(README.md) + Dir.glob('{bin,lib,spec}/**/*')
   spec.require_path = 'lib'
   spec.bindir = 'bin'
+  spec.license = 'MIT'
 
   spec.add_development_dependency('rspec', '~>2.14.1')
 end
